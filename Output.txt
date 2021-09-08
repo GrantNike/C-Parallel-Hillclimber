@@ -1,0 +1,25 @@
+Enter a number(1-8) of Hill Climbers to run [0 to Quit]: 4
+
+About to commence; PID: 57
+4 Hill-Climbers are climbing Egg Holder function...
+Ctrl-C to stop climbers and view progress.
+^C
+Computations complete.
+Halting now...
+
+Current Global Best Height is: f(x,y) = -956.032
+With coordinates X = 484.3, Y = 434.9
+########################################################
+Enter a number(1-8) of Hill Climbers to run [0 to Quit]: 8
+
+About to commence; PID: 57
+8 Hill-Climbers are climbing Egg Holder function...
+Ctrl-C to stop climbers and view progress.
+^C
+Computations complete.
+Halting now...
+
+Current Global Best Height is: f(x,y) = -959.64
+With coordinates X = 512, Y = 404.2
+########################################################
+Enter a number(1-8) of Hill Climbers to run [0 to Quit]: 0
